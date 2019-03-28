@@ -1,6 +1,7 @@
 # Awesome List of Awesome Lists
 
 * [Awesome List of Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [List of awesome topics](https://github.com/sindresorhus/awesome)
 * [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 * [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
@@ -15,6 +16,7 @@
 * [Kafka](https://github.com/dharmeshkakadia/awesome-kafka)
 * [Java](https://github.com/akullpp/awesome-java)
 * [GraphQL](https://github.com/chentsulin/awesome-graphql)
+* [gRPC](https://github.com/grpc-ecosystem/awesome-grpc)
 * [Go](https://github.com/avelino/awesome-go)
 * [Python](https://github.com/vinta/awesome-python)
 * [Angular](https://github.com/PatrickJS/awesome-angular)
@@ -31,4 +33,3 @@
 * [Design](https://github.com/gztchan/awesome-design)
 * [Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 * [Podcasts](https://github.com/rShetty/awesome-podcasts)
-* [List of awesome topics](https://github.com/sindresorhus/awesome)
